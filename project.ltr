@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>D:\Git\TicketsFromSD\Test.ltw</Key>
+            <Value>e11c2057-4187-4432-81be-26848a2c18b7</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>D:\Git\TicketsFromSD\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
